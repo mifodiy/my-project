@@ -3,28 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cfca3074-204d-4c4d-9b7f-55ab53eb7f61" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/config/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/exception/TransportException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/CityRegisterValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/CityRegisterValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/register/CityRegisterChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/register/CityRegisterChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/register/RealCityRegisterChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/javacourse/studentorder/validator/register/RealCityRegisterChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/dao.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/javacourse/studentorder/validator/register/FakeCityRegisterChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/javacourse/studentorder/validator/register/FakeCityRegisterChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dao.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/config/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/config/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/exception/TransportException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/CityRegisterValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/CityRegisterValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/register/CityRegisterChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/register/CityRegisterChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/register/RealCityRegisterChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/javacourse/studentorder/validator/register/RealCityRegisterChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/logfile_test.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/logfile_test.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/student-order-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/student-order-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.javacourse.studentorder.dao.DictionaryDaoImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.javacourse.studentorder.dao.DictionaryDaoImplTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.javacourse.studentorder.dao.DictionaryDaoImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.javacourse.studentorder.dao.DictionaryDaoImplTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,12 +158,20 @@
       <option name="project" value="LOCAL" />
       <updated>1589216158456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="delete TransportException modified config.properties(added cr_url)">
+      <created>1589217364772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589217364790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modified RealCityRegisterChecker" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified RealCityRegisterChecker" />
+    <MESSAGE value="delete TransportException modified config.properties(added cr_url)" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete TransportException modified config.properties(added cr_url)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="386" y="23" key="#com.intellij.ide.util.MemberChooser" timestamp="1589209525586">
@@ -201,62 +187,70 @@
       <screen x="0" y="23" width="1280" height="593" />
     </state>
     <state x="378" y="72" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.593@0.23.1280.593" timestamp="1589216816899" />
-    <state x="60" y="23" key="CommitChangelistDialog2" timestamp="1589216156110">
+    <state x="60" y="23" key="CommitChangelistDialog2" timestamp="1589217362415">
       <screen x="0" y="23" width="1280" height="593" />
     </state>
-    <state x="60" y="23" key="CommitChangelistDialog2/0.23.1280.593@0.23.1280.593" timestamp="1589216156110" />
-    <state width="1238" height="125" key="GridCell.Tab.0.bottom" timestamp="1589217181942">
-      <screen x="0" y="23" width="1280" height="593" />
+    <state x="60" y="23" key="CommitChangelistDialog2/0.23.1280.593@0.23.1280.593" timestamp="1589217362415" />
+    <state width="1238" height="170" key="GridCell.Tab.0.bottom" timestamp="1589273441162">
+      <screen x="0" y="23" width="1280" height="592" />
     </state>
     <state width="1238" height="171" key="GridCell.Tab.0.bottom/0.0.1280.615@0.0.1280.615" timestamp="1588262307059" />
     <state width="1238" height="171" key="GridCell.Tab.0.bottom/0.0.1280.616@0.0.1280.616" timestamp="1588417024036" />
+    <state width="1238" height="170" key="GridCell.Tab.0.bottom/0.23.1280.592@0.23.1280.592" timestamp="1589273441162" />
     <state width="1238" height="125" key="GridCell.Tab.0.bottom/0.23.1280.593@0.23.1280.593" timestamp="1589217181942" />
     <state width="1238" height="170" key="GridCell.Tab.0.bottom/0.23.1280.598@0.23.1280.598" timestamp="1589212108835" />
-    <state width="1238" height="125" key="GridCell.Tab.0.center" timestamp="1589217181941">
-      <screen x="0" y="23" width="1280" height="593" />
+    <state width="1238" height="170" key="GridCell.Tab.0.center" timestamp="1589273441161">
+      <screen x="0" y="23" width="1280" height="592" />
     </state>
     <state width="1238" height="171" key="GridCell.Tab.0.center/0.0.1280.615@0.0.1280.615" timestamp="1588262307056" />
     <state width="1238" height="171" key="GridCell.Tab.0.center/0.0.1280.616@0.0.1280.616" timestamp="1588417024033" />
+    <state width="1238" height="170" key="GridCell.Tab.0.center/0.23.1280.592@0.23.1280.592" timestamp="1589273441161" />
     <state width="1238" height="125" key="GridCell.Tab.0.center/0.23.1280.593@0.23.1280.593" timestamp="1589217181941" />
     <state width="1238" height="170" key="GridCell.Tab.0.center/0.23.1280.598@0.23.1280.598" timestamp="1589212108834" />
-    <state width="1238" height="125" key="GridCell.Tab.0.left" timestamp="1589217181939">
-      <screen x="0" y="23" width="1280" height="593" />
+    <state width="1238" height="170" key="GridCell.Tab.0.left" timestamp="1589273441160">
+      <screen x="0" y="23" width="1280" height="592" />
     </state>
     <state width="1238" height="171" key="GridCell.Tab.0.left/0.0.1280.615@0.0.1280.615" timestamp="1588262307051" />
     <state width="1238" height="171" key="GridCell.Tab.0.left/0.0.1280.616@0.0.1280.616" timestamp="1588417024021" />
+    <state width="1238" height="170" key="GridCell.Tab.0.left/0.23.1280.592@0.23.1280.592" timestamp="1589273441160" />
     <state width="1238" height="125" key="GridCell.Tab.0.left/0.23.1280.593@0.23.1280.593" timestamp="1589217181939" />
     <state width="1238" height="170" key="GridCell.Tab.0.left/0.23.1280.598@0.23.1280.598" timestamp="1589212108833" />
-    <state width="1238" height="125" key="GridCell.Tab.0.right" timestamp="1589217181942">
-      <screen x="0" y="23" width="1280" height="593" />
+    <state width="1238" height="170" key="GridCell.Tab.0.right" timestamp="1589273441161">
+      <screen x="0" y="23" width="1280" height="592" />
     </state>
     <state width="1238" height="171" key="GridCell.Tab.0.right/0.0.1280.615@0.0.1280.615" timestamp="1588262307058" />
     <state width="1238" height="171" key="GridCell.Tab.0.right/0.0.1280.616@0.0.1280.616" timestamp="1588417024035" />
+    <state width="1238" height="170" key="GridCell.Tab.0.right/0.23.1280.592@0.23.1280.592" timestamp="1589273441161" />
     <state width="1238" height="125" key="GridCell.Tab.0.right/0.23.1280.593@0.23.1280.593" timestamp="1589217181942" />
     <state width="1238" height="170" key="GridCell.Tab.0.right/0.23.1280.598@0.23.1280.598" timestamp="1589212108834" />
-    <state width="1238" height="170" key="GridCell.Tab.1.bottom" timestamp="1589217037043">
-      <screen x="0" y="23" width="1280" height="593" />
+    <state width="1238" height="170" key="GridCell.Tab.1.bottom" timestamp="1589273441166">
+      <screen x="0" y="23" width="1280" height="592" />
     </state>
+    <state width="1238" height="170" key="GridCell.Tab.1.bottom/0.23.1280.592@0.23.1280.592" timestamp="1589273441166" />
     <state width="1238" height="170" key="GridCell.Tab.1.bottom/0.23.1280.593@0.23.1280.593" timestamp="1589217037043" />
     <state width="1238" height="170" key="GridCell.Tab.1.bottom/0.23.1280.598@0.23.1280.598" timestamp="1589212116685" />
-    <state width="1238" height="170" key="GridCell.Tab.1.center" timestamp="1589217037042">
-      <screen x="0" y="23" width="1280" height="593" />
+    <state width="1238" height="170" key="GridCell.Tab.1.center" timestamp="1589273441166">
+      <screen x="0" y="23" width="1280" height="592" />
     </state>
+    <state width="1238" height="170" key="GridCell.Tab.1.center/0.23.1280.592@0.23.1280.592" timestamp="1589273441166" />
     <state width="1238" height="170" key="GridCell.Tab.1.center/0.23.1280.593@0.23.1280.593" timestamp="1589217037042" />
     <state width="1238" height="170" key="GridCell.Tab.1.center/0.23.1280.598@0.23.1280.598" timestamp="1589212116683" />
-    <state width="1238" height="170" key="GridCell.Tab.1.left" timestamp="1589217037042">
-      <screen x="0" y="23" width="1280" height="593" />
+    <state width="1238" height="170" key="GridCell.Tab.1.left" timestamp="1589273441165">
+      <screen x="0" y="23" width="1280" height="592" />
     </state>
+    <state width="1238" height="170" key="GridCell.Tab.1.left/0.23.1280.592@0.23.1280.592" timestamp="1589273441165" />
     <state width="1238" height="170" key="GridCell.Tab.1.left/0.23.1280.593@0.23.1280.593" timestamp="1589217037042" />
     <state width="1238" height="170" key="GridCell.Tab.1.left/0.23.1280.598@0.23.1280.598" timestamp="1589212116682" />
-    <state width="1238" height="170" key="GridCell.Tab.1.right" timestamp="1589217037042">
-      <screen x="0" y="23" width="1280" height="593" />
+    <state width="1238" height="170" key="GridCell.Tab.1.right" timestamp="1589273441166">
+      <screen x="0" y="23" width="1280" height="592" />
     </state>
+    <state width="1238" height="170" key="GridCell.Tab.1.right/0.23.1280.592@0.23.1280.592" timestamp="1589273441166" />
     <state width="1238" height="170" key="GridCell.Tab.1.right/0.23.1280.593@0.23.1280.593" timestamp="1589217037042" />
     <state width="1238" height="170" key="GridCell.Tab.1.right/0.23.1280.598@0.23.1280.598" timestamp="1589212116684" />
-    <state x="240" y="58" key="Vcs.Push.Dialog.v2" timestamp="1589216163750">
+    <state x="240" y="58" key="Vcs.Push.Dialog.v2" timestamp="1589217370709">
       <screen x="0" y="23" width="1280" height="593" />
     </state>
-    <state x="240" y="58" key="Vcs.Push.Dialog.v2/0.23.1280.593@0.23.1280.593" timestamp="1589216163750" />
+    <state x="240" y="58" key="Vcs.Push.Dialog.v2/0.23.1280.593@0.23.1280.593" timestamp="1589217370709" />
     <state x="386" y="72" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588409938263">
       <screen x="0" y="0" width="1280" height="616" />
     </state>
